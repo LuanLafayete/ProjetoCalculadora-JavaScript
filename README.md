@@ -4,6 +4,8 @@
 
 [🔗 Clique aqui para acessar](https://luanlafayete.github.io/ProjetoCalculadora-JavaScript/)
 
+![preview]([./.github/preview.png](https://github.com/LuanLafayete/ProjetoCalculadora-JavaScript/blob/main/Github/Captura%20da%20Web_22-6-2023_115620_luanlafayete.github.io.jpeg))
+
 ## 💻 Tecnologias 
 - HTML
 - CSS
